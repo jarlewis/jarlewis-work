@@ -197,21 +197,6 @@ const about = {
         title: "Postman + Rest APIs",
         description: <>Proficient in using Postman for API testing, documentation, and automation. Experienced in creating and managing API collections, writing test scripts, and troubleshooting APIs.</>,
       },
-      {
-        title: "Project Management",
-        description: <> Leveraging a comprehensive tech stack for product development and analytics:
-        JIRA for agile project management and sprint planning,
-        Zendesk for customer support insights and feedback collection,
-        Pendo and Fullstory for user behavior analysis and feature adoption tracking,
-        Firebase and AWS for monitoring application performance,
-        Datadog for real-time system monitoring,
-        and Looker for data-driven decision making and KPI tracking.</>,
-        // optional: leave the array empty if you don't want to display images
-        images: [
-          {
-        },
-      ],
-    },
     {
       title: "Project Management",
       description: <> Leveraging a comprehensive tech stack for product development and analytics:
