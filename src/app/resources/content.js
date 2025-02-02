@@ -74,15 +74,15 @@ const about = {
   },
   calendar: {
     display: true,
-    link: "https://cal.com/jarlewis",
+    link: "https://calendly.com/jarell-lewis",
   },
   intro: {
     display: true,
     title: "Introduction",
     description: (
       <>
-        Jarell is an Atlanta-based product manager with a passion for transforming user experiences and 
-        business processes through the adoption of innovative and new technologies. His work spans digital interfaces, interactive
+        I'm an Atlanta-based product manager with a passion for transforming user experiences and 
+        business processes through the adoption of innovative and new technologies. My work spans digital interfaces, interactive
         experiences, and the convergence of CX and technology.
       </>
     ),
