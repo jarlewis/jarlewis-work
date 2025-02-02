@@ -53,10 +53,10 @@ const home = {
   label: "Home",
   title: `${person.name}'s Portfolio`,
   description: `Portfolio website showcasing my experience as a ${person.role}`,
-  headline: <>Product manager</>,
+  headline: <>Product Manager</>,
   subline: (
     <>
-     I'm Jarell, a <InlineCode>Product manager</InlineCode> and I build my own projects. I'm not a developer. 
+     I'm Jarell, a <InlineCode>Product Manager</InlineCode> and I build my own projects. I'm not a developer. 
     </>
   ),
 };
@@ -101,7 +101,7 @@ const about = {
           </>,
           <>
             Spearheaded the integration of AI tools into business workflows, enabling companies to
-            optimize their business processes by 50%.
+            optimize their business processes.
           </>,
         ],
         images: []
@@ -132,20 +132,20 @@ const about = {
         role: "Product Specialist > Product Support Engineer > Product Manager",
         achievements: [
           <>
-            Improved legacy source code to reduce system faults, ensuring a stable and innovative product 
-            environment for real-time VOIP communications.
+            Enhanced legacy source code to reduce system faults, ensuring a stable 
+            and innovative environment for real-time VOIP communications.
           </>,
           <>
-            Created and updated workflows and training materials, ensuring readiness for new operational 
-            processes and API product enhancements.
+            Developed workflows and training materials, ensuring seamless
+            adoption of new operational processes and API product enhancements.
           </>,         
           <>
-            Led cross-functional initiatives to integrate customer feedback into the development lifecycle,
-            resulting in an improvement in the product feedback to development lifecycle.
+            Led cross-functional initiatives to incorporate customer feedback into the development 
+            lifecycle, improving the efficiency of product feedback integration.
           </>,
           <>
-            Developed custom API scripts using REST API, standardizing processes for Partnership Sales and 
-            Customer Success teams, reducing internal workflow timelines by 30%.
+            Built custom API scripts using REST API, streamlining workflows for Partnership Sales and
+            Customer Success teams and reducing internal timelines by 30%
           </>
         ],
         images: []
@@ -172,7 +172,7 @@ const about = {
     skills: [
       {
         title: "Prompt Engineering",
-        description: <>Able to create prompts using generative AI technologies to create the desired result with minimal effort.</>,
+        description: <>Skilled in designing prompts using generative AI technologies to achieve desired outcomes with minimal effort.</>,
         // optional: leave the array empty if you don't want to display images
         images: [
           {
@@ -182,7 +182,7 @@ const about = {
       },
       {
         title: "Development + Coding",
-        description: <>Using AI coding tools to build next gen apps with Javascript + Ruby on Rails + Next.js + Tailwind + Supabase. Some SQL experience</>,
+        description: <>Proficient in building next-generation applications with AI assisted coding tools using JavaScript, Ruby on Rails, Next.js, Tailwind CSS, and Supabase. Basic experience with SQL.</>,
         // optional: leave the array empty if you don't want to display images
         images: [
           {
@@ -195,17 +195,13 @@ const about = {
       },
       {
         title: "Postman + Rest APIs",
-        description: <>Proficient in using Postman for API testing, documentation, and automation. Experienced in creating and managing API collections, writing test scripts, and troubleshooting APIs.</>,
+        description: <>Experienced in API testing, documentation, and automation using Postman. Proficient in creating API collections, writing test scripts, and troubleshooting APIs.</>,
       },
     {
       title: "Project Management",
-      description: <> Leveraging a comprehensive tech stack for product development and analytics:
-      JIRA for agile project management and sprint planning,
-      Zendesk for customer support insights and feedback collection,
-      Pendo and Fullstory for user behavior analysis and feature adoption tracking,
-      Firebase and AWS for monitoring application performance,
-      Datadog for real-time system monitoring,
-      and Looker for data-driven decision making and KPI tracking.</>,
+      description: <> Expertise in leveraging a comprehensive tech stack for product development and analytics, including JIRA for agile project management and sprint planning, Zendesk for
+      customer support insights and feedback collection, Pendo and FullStory for user behavior analysis and feature adoption tracking, Firebase and AWS for application performance monitoring, 
+      Datadog for real-time system monitoring, and Looker for data-driven decision-making and KPI tracking.</>,
       // optional: leave the array empty if you don't want to display images
       images: [
         {
