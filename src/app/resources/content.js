@@ -83,7 +83,7 @@ const about = {
       <>
         I'm an Atlanta-based product manager with a passion for transforming user experiences and 
         business processes through the adoption of innovative and new technologies. My work spans digital interfaces, interactive
-        experiences, and the convergence of CX and technology.
+        experiences, and the convergence of CX and technology. I am excited about working with new and innovative technologies especially AI.
       </>
     ),
   },
