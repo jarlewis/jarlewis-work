@@ -83,7 +83,7 @@ const about = {
       <>
         I'm an Atlanta-based product manager with a passion for transforming user experiences and 
         business processes through the adoption of innovative and new technologies. My work spans digital interfaces, interactive
-        experiences, and the convergence of CX and technology. I am excited about working with new and innovative technologies especially AI.
+        experiences, and the convergence of CX and technology. I'm an AI development tool specialist and I am excited about working with new and innovative technologies.
       </>
     ),
   },
@@ -182,7 +182,8 @@ const about = {
       },
       {
         title: "Development + Coding",
-        description: <>Proficient in building next-generation applications with AI assisted coding tools using JavaScript, Ruby on Rails, Next.js, Tailwind CSS, and Supabase. Basic experience with SQL.</>,
+        description: <>Proficient in building next-generation applications with AI assisted coding tools using JavaScript, Ruby on Rails, Next.js, Tailwind CSS, and Supabase. Basic experience with SQL. AI Tools include
+                        Bolt.new, v0 by Vercel, & lovable.dev</>,
         // optional: leave the array empty if you don't want to display images
         images: [
           {
