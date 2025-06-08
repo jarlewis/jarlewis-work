@@ -6,7 +6,7 @@ const person = {
   get name() {
     return `${this.firstName} ${this.lastName}`;
   },
-  role: "Product Manager and Consultant",
+  role: "Product Manager and Solutions Engineer",
   avatar: "/images/avatar.jpg",
   location: "America/New_York", // Expecting the IANA time zone identifier, e.g., 'Europe/Vienna'
   languages: ["English", "Spanish(Classroom)"], // optional: Leave the array empty if you don't want to display languages
@@ -56,7 +56,7 @@ const home = {
   headline: <>Product Manager</>,
   subline: (
     <>
-     I'm Jarell, a <InlineCode>Product Manager</InlineCode> and I build my own projects. I'm not a developer. 
+     I'm Jarell, a <InlineCode>Solutions Engineer</InlineCode> and I build my own projects. I'm not a developer. 
     </>
   ),
 };
@@ -81,16 +81,35 @@ const about = {
     title: "Introduction",
     description: (
       <>
-        I'm an Atlanta-based product manager with a passion for transforming user experiences and 
+        I'm an Atlanta-based solutions engineer with a passion for transforming user experiences and 
         business processes through the adoption of innovative and new technologies. My work spans digital interfaces, interactive
-        experiences, and the convergence of CX and technology. I'm an AI development tool specialist and I am excited about working with new and innovative technologies.
-      </>
+        experiences, and the convergence of CX and technology. I'm an AI development tool specialist and I am excited about working with new and innovative technologies.      </>
     ),
   },
   work: {
     display: true, // set to false to hide this section
     title: "Work Experience",
     experiences: [
+      {
+        company: "Euna Solutions",
+        timeframe: "2025 - Present",
+        role: "Solutions Engineer",
+        achievements: [
+          <>
+            Conduct technical discovery sessions to identify system dependencies and data mapping requirements.
+          </>,
+          <>
+            Perform validation and QA of integrated systems to ensure data accuracy and functional performance.
+          </>,
+          <> 
+            Collaborate with cross-functional teams to define integration specifications and solution architecture.
+          </>,
+          <>
+            Monitor system health and performance of integrated workflows and troubleshoot issues as needed
+          </>,
+        ],
+        images: []
+      },
       {
         company: "Freelance",
         timeframe: "2024 - Present",
