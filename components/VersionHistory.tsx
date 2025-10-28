@@ -73,7 +73,7 @@ export default function VersionHistory() {
             <div className="flex items-center justify-between">
               <div className="flex items-center gap-3">
                 <span className="text-primary font-semibold text-sm bg-primary/10 border border-primary/40 rounded px-2 py-0.5">{v.id}</span>
-                <p className="text-white font-medium text-sm">{v.year}: {v.employer} — {v.role}</p>
+                <p className="text-white font-medium text-sm">{v.employer} — {v.role}</p>
               </div>
               <span className="text-white/50 text-xs">{v.duration}</span>
             </div>
