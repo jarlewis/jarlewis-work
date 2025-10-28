@@ -1,5 +1,4 @@
 import Header from '../components/Header';
-import CpuUsage from '../components/CpuUsage';
 import SystemAlerts from '../components/SystemAlerts';
 import VersionHistory from '../components/VersionHistory';
 
@@ -194,8 +193,7 @@ export default function Home() {
                   </div>
                 </div>
 
-                {/* CPU Usage — positioned below Skills Uptime */}
-                <CpuUsage />
+                {/* CPU Usage removed per request */}
 
                 {/* AI + Automation Projects — removed by request */}
               </div>
