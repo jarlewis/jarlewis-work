@@ -15,10 +15,10 @@ export default function VersionHistory() {
     },
     {
       id: 'v2.0',
-      year: '2023',
+      year: '2024',
       employer: 'Inspire Brands',
       role: 'Lead Product Manager, Customer Care',
-      duration: 'Aug 2023 – Jul 2024',
+      duration: 'Aug 2024 – Apr 2025',
       highlights: [
         'Created backbone sources for AI-driven chatbot implementation',
         'Designed knowledge taxonomy and self-service flows (+~20% CSAT)',

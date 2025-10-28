@@ -35,13 +35,13 @@ export default function Home() {
                     <p><span className="text-cyan-400">[2021-06-01 09:30:00]</span> <span className="text-green-400">[PROMO]</span> Promoted to Product Manager — CallRail.</p>
                     <p><span className="text-cyan-400">[2022-03-01 03:30:00]</span> <span className="text-yellow-400">[DEPLOY]</span> Released redesigned VOIP mobile app — +15% engagement.</p>
                     <p className="text-white/50 mt-3">// v2.0 RELEASE LOGS — Inspire Brands</p>
-                    <p><span className="text-cyan-400">[2024-08-10 09:00:00]</span> <span className="text-yellow-400">[DEPLOY]</span> Joined Inspire Brands — Product Manager.</p>
-                    <p><span className="text-cyan-400">[2023-03-10 11:02:05]</span> <span className="text-green-400">[INFO]</span> Designed knowledge base taxonomy & self-service strategy — improved CSAT by ~20%.</p>
-                    <p><span className="text-cyan-400">[2023-08-15 14:22:45]</span> <span className="text-yellow-400">[DEPLOY]</span> Created strategy for AI-driven chatbot to reduce live support volume by 30%.</p>
+                    <p><span className="text-cyan-400">[2023-08-10 09:00:00]</span> <span className="text-yellow-400">[DEPLOY]</span> Joined Inspire Brands — Product Manager.</p>
+                    <p><span className="text-cyan-400">[2023-10-10 11:02:05]</span> <span className="text-green-400">[INFO]</span> Designed knowledge base taxonomy & self-service strategy — improved CSAT by ~20%.</p>
+                    <p><span className="text-cyan-400">[2024-02-15 14:22:45]</span> <span className="text-yellow-400">[DEPLOY]</span> Created strategy for AI-driven chatbot to reduce live support volume by 30%.</p>
                     <p><span className="text-cyan-400">[2024-07-01 10:15:12]</span> <span className="text-green-400">[INFO]</span> Began freelance consulting: digital transformation and CRM / e-commerce integrations for SMBs.</p>
                     <p className="text-white/50 mt-3">// v3.0 DEPLOYMENT LOGS — Euna Solutions</p>
                     <p><span className="text-cyan-400">[2025-04-25 09:00:00]</span> <span className="text-yellow-400">[DEPLOY]</span> Joined Euna Solutions — Solutions Engineer (Payments, integrations & automation).</p>
-                    <p><span className="text-cyan-400">[2025-02-01 10:30:00]</span> <span className="text-green-400">[INFO]</span> Developing client implementations for enterprise-grade payment solutions.</p>
+                    <p><span className="text-cyan-400">[2025-08-01 10:30:00]</span> <span className="text-green-400">[INFO]</span> Developing client implementations for public sector payment solutions.</p>
                     <div className="mt-3 text-xs text-white/60 flex items-center gap-2">
                       <span className="text-green-400">&gt;</span>
                       <span>System heartbeat active... Monitoring deployment pipelines</span>
@@ -115,10 +115,6 @@ export default function Home() {
                     <a className="flex items-center gap-3 text-white/80 hover:text-primary transition-colors" href="https://github.com/jarlewis" target="_blank" rel="noreferrer">
                       <svg className="h-6 w-6" aria-hidden="true" fill="currentColor" viewBox="0 0 24 24"><path fillRule="evenodd" clipRule="evenodd" d="M12 2C6.477 2 2 6.477 2 12c0 4.418 2.865 8.165 6.839 9.489.5.092.682-.217.682-.482 0-.237-.009-.868-.014-1.703-2.782.605-3.369-1.343-3.369-1.343-.454-1.158-1.11-1.466-1.11-1.466-.908-.62.069-.608.069-.608 1.003.07 1.531 1.032 1.531 1.032.892 1.53 2.341 1.088 2.91.832.092-.647.35-1.088.636-1.338-2.22-.253-4.555-1.113-4.555-4.951 0-1.093.39-1.988 1.031-2.688-.103-.253-.446-1.272.098-2.65 0 0 .84-.27 2.75 1.026A9.564 9.564 0 0112 6.844c.85.004 1.705.115 2.504.337 1.909-1.296 2.747-1.027 2.747-1.027.546 1.379.203 2.398.1 2.651.64.7 1.03 1.595 1.03 2.688 0 3.848-2.338 4.695-4.566 4.942.359.308.678.92.678 1.853 0 1.338-.012 2.419-.012 2.747 0 .268.18.578.688.482A10.001 10.001 0 0022 12c0-5.523-4.477-10-10-10z"/></svg>
                       <span className="text-sm">/jarlewis</span>
-                    </a>
-                    <a className="flex items-center gap-3 text-white/80 hover:text-primary transition-colors" href="https://jarlewis-work.vercel.app" target="_blank" rel="noreferrer">
-                      <span className="material-symbols-outlined">public</span>
-                      <span className="text-sm">jarlewis-work.vercel.app</span>
                     </a>
                   </div>
                 </div>
