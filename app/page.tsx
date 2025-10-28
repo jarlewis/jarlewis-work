@@ -129,35 +129,35 @@ export default function Home() {
                     {/* Automation & Optimization - 2 skills */}
                     <div className="flex items-center justify-between">
                       <span className="text-white text-sm font-medium">Zapier / API Automation</span>
-                      <span className="text-white/50 text-xs">99%</span>
+                      <span className="text-white/50 text-xs">84%</span>
                     </div>
                     <div className="w-full bg-white/10 rounded-full h-2">
-                      <div className="bg-primary h-2 rounded-full" style={{width: '99%'}}></div>
+                      <div className="bg-primary h-2 rounded-full" style={{width: '84%'}}></div>
                     </div>
                     
                     <div className="flex items-center justify-between">
                       <span className="text-white text-sm font-medium">Workflow Scripting</span>
-                      <span className="text-white/50 text-xs">98%</span>
+                      <span className="text-white/50 text-xs">77%</span>
                     </div>
                     <div className="w-full bg-white/10 rounded-full h-2">
-                      <div className="bg-primary h-2 rounded-full" style={{width: '98%'}}></div>
+                      <div className="bg-primary h-2 rounded-full" style={{width: '77%'}}></div>
                     </div>
 
                     {/* Product & Solutions Architecture - 2 skills */}
                     <div className="flex items-center justify-between">
                       <span className="text-white text-sm font-medium">Technical Demos & POCs</span>
-                      <span className="text-white/50 text-xs">99.7%</span>
+                      <span className="text-white/50 text-xs">82%</span>
                     </div>
                     <div className="w-full bg-white/10 rounded-full h-2">
-                      <div className="bg-primary h-2 rounded-full" style={{width: '99.7%'}}></div>
+                      <div className="bg-primary h-2 rounded-full" style={{width: '82%'}}></div>
                     </div>
                     
                     <div className="flex items-center justify-between">
                       <span className="text-white text-sm font-medium">Requirements Translation</span>
-                      <span className="text-white/50 text-xs">100%</span>
+                      <span className="text-white/50 text-xs">88%</span>
                     </div>
                     <div className="w-full bg-white/10 rounded-full h-2">
-                      <div className="bg-primary h-2 rounded-full" style={{width: '100%'}}></div>
+                      <div className="bg-primary h-2 rounded-full" style={{width: '88%'}}></div>
                     </div>
 
                     {/* Customer Experience / Support Engineering - 2 skills */}
@@ -171,27 +171,27 @@ export default function Home() {
                     
                     <div className="flex items-center justify-between">
                       <span className="text-white text-sm font-medium">Client Communication</span>
-                      <span className="text-white/50 text-xs">100%</span>
+                      <span className="text-white/50 text-xs">94%</span>
                     </div>
                     <div className="w-full bg-white/10 rounded-full h-2">
-                      <div className="bg-primary h-2 rounded-full" style={{width: '100%'}}></div>
+                      <div className="bg-primary h-2 rounded-full" style={{width: '94%'}}></div>
                     </div>
 
                     {/* Project Management & Strategy - 2 skills */}
                     <div className="flex items-center justify-between">
                       <span className="text-white text-sm font-medium">Agile / Scrum / Kanban</span>
-                      <span className="text-white/50 text-xs">99%</span>
+                      <span className="text-white/50 text-xs">'91%'</span>
                     </div>
                     <div className="w-full bg-white/10 rounded-full h-2">
-                      <div className="bg-primary h-2 rounded-full" style={{width: '99%'}}></div>
+                      <div className="bg-primary h-2 rounded-full" style={{width: '91%'}}></div>
                     </div>
                     
                     <div className="flex items-center justify-between">
                       <span className="text-white text-sm font-medium">Stakeholder Management</span>
-                      <span className="text-white/50 text-xs">100%</span>
+                      <span className="text-white/50 text-xs">89%</span>
                     </div>
                     <div className="w-full bg-white/10 rounded-full h-2">
-                      <div className="bg-primary h-2 rounded-full" style={{width: '100%'}}></div>
+                      <div className="bg-primary h-2 rounded-full" style={{width: '89%'}}></div>
                     </div>
                   </div>
                 </div>
