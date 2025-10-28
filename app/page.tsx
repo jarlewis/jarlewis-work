@@ -1,5 +1,4 @@
 import Header from '../components/Header';
-import SystemMetrics from '../components/SystemMetrics';
 import CpuUsage from '../components/CpuUsage';
 import SystemAlerts from '../components/SystemAlerts';
 import VersionHistory from '../components/VersionHistory';
@@ -94,8 +93,7 @@ export default function Home() {
                   <p className="text-xs text-white/60 mt-3">Relevant certifications that support product strategy, analytics, and program execution.</p>
                 </div>
 
-                {/* System Metrics — full-width under Certifications */}
-                <SystemMetrics />
+                {/* System Metrics removed per request */}
               </div>
 
               {/* Right column: contact, stats, uptime, AI projects */}
