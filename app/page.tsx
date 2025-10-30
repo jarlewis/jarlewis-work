@@ -4,7 +4,7 @@ import VersionHistory from '../components/VersionHistory';
 
 export default function Home() {
   return (
-    <div className="bg-[#191970] font-display text-white/90 min-h-screen">
+    <div className="bg-[#2b2b2b] font-display text-white/90 min-h-screen">
       <Header />
       <main className="px-4 sm:px-8 md:px-12 lg:px-20 xl:px-40">
         <div className="flex flex-1 justify-center py-5">
