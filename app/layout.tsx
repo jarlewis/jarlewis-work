@@ -25,7 +25,7 @@ export default function RootLayout({
           rel="stylesheet"
         />
       </head>
-      <body className={`${spaceGrotesk.className} bg-background-dark text-white min-h-screen`}>
+      <body className={`${spaceGrotesk.className} bg-[#191970] text-white min-h-screen`}>
         {children}
       </body>
     </html>
