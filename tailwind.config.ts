@@ -15,7 +15,7 @@ const config: Config = {
       colors: {
         primary: '#06f906',
         'background-light': '#f5f8f5',
-        'background-dark': '#0f230f'
+        'background-dark': '#191970'
       },
       fontFamily: {
         display: ['Space Grotesk', 'sans-serif']
